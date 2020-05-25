@@ -1,0 +1,14 @@
+.btn.btn-primary.btn-xl.js-scroll-trigger:hover {
+  background-color: rgb(240,95,64)!important;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled):hover {
+  background-color: rgb(240,95,64)!important;
+}
+
+#mainNav .navbar-brand {
+  /*color: white!important;*/
+  font-family: 'ABeeZee';
+  font-size: 24px!important;
+}
+
